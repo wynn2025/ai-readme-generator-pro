@@ -1,0 +1,18 @@
+{
+  "name": "AI README Generator Pro",
+  "version": "1.0.0",
+  "description": "One-click professional README.md generator - analyze any project and generate beautiful docs",
+  "price_xianyu": 19.9,
+  "price_github": "free/open-source",
+  "entry": "ai_readme_generator_pro.py",
+  "language": "python",
+  "lines": 346,
+  "features": [
+    "Smart project analysis (language detection, function/class extraction)",
+    "Multi-language support (Python/Node/Go/Rust/Java/C++)",
+    "3 template styles (minimal/professional/full)",
+    "Optional DeepSeek API AI enhancement",
+    "GitHub URL direct analysis",
+    "Zero dependencies, pure Python stdlib"
+  ]
+}
